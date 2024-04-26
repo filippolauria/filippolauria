@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=filippolauria&bg_color=none&color=575757&line=7d2acb&point=575757&hide_border=true&hide_title=false" width="870px"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=filippolauria&bg_color=ffffff&color=191e50&line=9e4c98&point=191e50&area=true&hide_border=true" width="870px"/>
 </div>
